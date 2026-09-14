@@ -8,9 +8,6 @@
     "ios": {
       "supportsTablet": false
     },
-    "android": {},
-    "plugins": [
-      "expo-sensors"
-    ]
+    "android": {}
   }
 }
