@@ -6,8 +6,11 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "ios": {
-      "supportsTablet": false
+      "supportsTablet": false,
+      "bundleIdentifier": "com.alignpro.app"
     },
-    "android": {}
+    "android": {
+      "package": "com.alignpro.app"
+    }
   }
 }
